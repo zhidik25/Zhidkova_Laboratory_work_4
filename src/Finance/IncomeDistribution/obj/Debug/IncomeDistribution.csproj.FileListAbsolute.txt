@@ -1,0 +1,20 @@
+D:\GitRep\finance\IncomeDistribution\IncomeDistribution\bin\Debug\IncomeDistribution.exe.config
+D:\GitRep\finance\IncomeDistribution\IncomeDistribution\bin\Debug\IncomeDistribution.exe
+D:\GitRep\finance\IncomeDistribution\IncomeDistribution\bin\Debug\IncomeDistribution.pdb
+D:\GitRep\finance\IncomeDistribution\IncomeDistribution\obj\Debug\IncomeDistribution.csproj.AssemblyReference.cache
+D:\GitRep\finance\IncomeDistribution\IncomeDistribution\obj\Debug\IncomeDistribution.MainForm.resources
+D:\GitRep\finance\IncomeDistribution\IncomeDistribution\obj\Debug\IncomeDistribution.Properties.Resources.resources
+D:\GitRep\finance\IncomeDistribution\IncomeDistribution\obj\Debug\IncomeDistribution.csproj.GenerateResource.cache
+D:\GitRep\finance\IncomeDistribution\IncomeDistribution\obj\Debug\IncomeDistribution.csproj.CoreCompileInputs.cache
+D:\GitRep\finance\IncomeDistribution\IncomeDistribution\obj\Debug\IncomeDistribution.exe
+D:\GitRep\finance\IncomeDistribution\IncomeDistribution\obj\Debug\IncomeDistribution.pdb
+C:\Users\badgr\OneDrive\Рабочий стол\Лабы Ксюхи\Готовенько\ЛР3\Finance\IncomeDistribution\bin\Debug\IncomeDistribution.exe.config
+C:\Users\badgr\OneDrive\Рабочий стол\Лабы Ксюхи\Готовенько\ЛР3\Finance\IncomeDistribution\bin\Debug\IncomeDistribution.exe
+C:\Users\badgr\OneDrive\Рабочий стол\Лабы Ксюхи\Готовенько\ЛР3\Finance\IncomeDistribution\bin\Debug\IncomeDistribution.pdb
+C:\Users\badgr\OneDrive\Рабочий стол\Лабы Ксюхи\Готовенько\ЛР3\Finance\IncomeDistribution\obj\Debug\IncomeDistribution.csproj.AssemblyReference.cache
+C:\Users\badgr\OneDrive\Рабочий стол\Лабы Ксюхи\Готовенько\ЛР3\Finance\IncomeDistribution\obj\Debug\IncomeDistribution.MainForm.resources
+C:\Users\badgr\OneDrive\Рабочий стол\Лабы Ксюхи\Готовенько\ЛР3\Finance\IncomeDistribution\obj\Debug\IncomeDistribution.Properties.Resources.resources
+C:\Users\badgr\OneDrive\Рабочий стол\Лабы Ксюхи\Готовенько\ЛР3\Finance\IncomeDistribution\obj\Debug\IncomeDistribution.csproj.GenerateResource.cache
+C:\Users\badgr\OneDrive\Рабочий стол\Лабы Ксюхи\Готовенько\ЛР3\Finance\IncomeDistribution\obj\Debug\IncomeDistribution.csproj.CoreCompileInputs.cache
+C:\Users\badgr\OneDrive\Рабочий стол\Лабы Ксюхи\Готовенько\ЛР3\Finance\IncomeDistribution\obj\Debug\IncomeDistribution.exe
+C:\Users\badgr\OneDrive\Рабочий стол\Лабы Ксюхи\Готовенько\ЛР3\Finance\IncomeDistribution\obj\Debug\IncomeDistribution.pdb
