@@ -1,0 +1,15 @@
+C:\Users\badgr\OneDrive\Рабочий стол\Zhidkova_Laboratory_work_3\CalcDB\bin\Debug\CalcDB.exe.config
+C:\Users\badgr\OneDrive\Рабочий стол\Zhidkova_Laboratory_work_3\CalcDB\bin\Debug\CalcDB.exe
+C:\Users\badgr\OneDrive\Рабочий стол\Zhidkova_Laboratory_work_3\CalcDB\bin\Debug\CalcDB.pdb
+C:\Users\badgr\OneDrive\Рабочий стол\Zhidkova_Laboratory_work_3\CalcDB\obj\Debug\CalcDB.csproj.AssemblyReference.cache
+C:\Users\badgr\OneDrive\Рабочий стол\Zhidkova_Laboratory_work_3\CalcDB\obj\Debug\CalcDB.csproj.SuggestedBindingRedirects.cache
+C:\Users\badgr\OneDrive\Рабочий стол\Zhidkova_Laboratory_work_3\CalcDB\obj\Debug\CalcDB.csproj.CoreCompileInputs.cache
+C:\Users\badgr\OneDrive\Рабочий стол\Zhidkova_Laboratory_work_3\CalcDB\obj\Debug\CalcDB.exe
+C:\Users\badgr\OneDrive\Рабочий стол\Zhidkova_Laboratory_work_3\CalcDB\obj\Debug\CalcDB.pdb
+C:\Users\badgr\OneDrive\Рабочий стол\Лабы Ксюхи\Готовенько\ЛР3\Zhidkova_Laboratory_work_3\CalcDB\bin\Debug\CalcDB.exe.config
+C:\Users\badgr\OneDrive\Рабочий стол\Лабы Ксюхи\Готовенько\ЛР3\Zhidkova_Laboratory_work_3\CalcDB\bin\Debug\CalcDB.exe
+C:\Users\badgr\OneDrive\Рабочий стол\Лабы Ксюхи\Готовенько\ЛР3\Zhidkova_Laboratory_work_3\CalcDB\bin\Debug\CalcDB.pdb
+C:\Users\badgr\OneDrive\Рабочий стол\Лабы Ксюхи\Готовенько\ЛР3\Zhidkova_Laboratory_work_3\CalcDB\obj\Debug\CalcDB.csproj.AssemblyReference.cache
+C:\Users\badgr\OneDrive\Рабочий стол\Лабы Ксюхи\Готовенько\ЛР3\Zhidkova_Laboratory_work_3\CalcDB\obj\Debug\CalcDB.csproj.CoreCompileInputs.cache
+C:\Users\badgr\OneDrive\Рабочий стол\Лабы Ксюхи\Готовенько\ЛР3\Zhidkova_Laboratory_work_3\CalcDB\obj\Debug\CalcDB.exe
+C:\Users\badgr\OneDrive\Рабочий стол\Лабы Ксюхи\Готовенько\ЛР3\Zhidkova_Laboratory_work_3\CalcDB\obj\Debug\CalcDB.pdb

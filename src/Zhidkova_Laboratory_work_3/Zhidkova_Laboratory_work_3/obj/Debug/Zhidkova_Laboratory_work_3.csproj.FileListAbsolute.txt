@@ -1,0 +1,7 @@
+C:\Users\badgr\OneDrive\Рабочий стол\Лабы Ксюхи\Готовенько\ЛР3\Zhidkova_Laboratory_work_3\Zhidkova_Laboratory_work_3\bin\Debug\Zhidkova_Laboratory_work_3.exe.config
+C:\Users\badgr\OneDrive\Рабочий стол\Лабы Ксюхи\Готовенько\ЛР3\Zhidkova_Laboratory_work_3\Zhidkova_Laboratory_work_3\bin\Debug\Zhidkova_Laboratory_work_3.exe
+C:\Users\badgr\OneDrive\Рабочий стол\Лабы Ксюхи\Готовенько\ЛР3\Zhidkova_Laboratory_work_3\Zhidkova_Laboratory_work_3\bin\Debug\Zhidkova_Laboratory_work_3.pdb
+C:\Users\badgr\OneDrive\Рабочий стол\Лабы Ксюхи\Готовенько\ЛР3\Zhidkova_Laboratory_work_3\Zhidkova_Laboratory_work_3\obj\Debug\Zhidkova_Laboratory_work_3.csproj.AssemblyReference.cache
+C:\Users\badgr\OneDrive\Рабочий стол\Лабы Ксюхи\Готовенько\ЛР3\Zhidkova_Laboratory_work_3\Zhidkova_Laboratory_work_3\obj\Debug\Zhidkova_Laboratory_work_3.csproj.CoreCompileInputs.cache
+C:\Users\badgr\OneDrive\Рабочий стол\Лабы Ксюхи\Готовенько\ЛР3\Zhidkova_Laboratory_work_3\Zhidkova_Laboratory_work_3\obj\Debug\Zhidkova_Laboratory_work_3.exe
+C:\Users\badgr\OneDrive\Рабочий стол\Лабы Ксюхи\Готовенько\ЛР3\Zhidkova_Laboratory_work_3\Zhidkova_Laboratory_work_3\obj\Debug\Zhidkova_Laboratory_work_3.pdb
